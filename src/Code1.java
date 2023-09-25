@@ -7,6 +7,8 @@ public class Code1 {
 		
 		System.out.println("Hello Rishabh this side");
 
+		System.out.println("this is side is rishabh sharma");
+
 	}
 
 }
